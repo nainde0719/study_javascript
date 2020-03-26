@@ -1,6 +1,6 @@
 //01
 function checkNumber(val) {
-    if (typeof val !== 'nember') throw '유효하지 않은 값입니다.';
+    if (typeof val !== 'number') throw '유효하지 않은 값입니다.';
     console.log('숫자형 값으로 확인되었습니다.');
 }
 
@@ -30,7 +30,7 @@ try {
 
 //03
 function checkNumber(val) {
-    if (typeof val !== 'nember') throw '유효하지 않은 값입니다.';
+    if (typeof val !== 'number') throw '유효하지 않은 값입니다.';
     console.log('숫자형 값으로 확인되었습니다.');
 }
 

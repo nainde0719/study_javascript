@@ -17,7 +17,7 @@ console.log(`0) c >>> ${c}`);
 console.log(`0) rest >>> ${rest}`);
 
 var [a=10, f=9] = [1];
-console.log(`1) a >>> ${a;
+console.log(`1) a >>> ${a}`);
     console.log(`1) f >>> ${f}`);
 
 function getArr() {
